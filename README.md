@@ -26,6 +26,7 @@ After that, to generate new versions, simply:
 The html content is then automatically hosted on the gh-pages endpoint at:
 http://gdg-newyork.github.io/wisdom
 
+
 ### References
 This approach was inspired by the successful usage in http://readthedocs.org, which is used 
 by numerous open-source projects to create searchable and well-organized docs for end users.
@@ -35,3 +36,7 @@ following sites (related to the setup link referenced above)
 
     1. DocumentCloud Repo: https://github.com/datadesk/python-documentcloud/blob/master/docs/index.rst
     2. DocumentCloud Site: http://python-documentcloud.readthedocs.org/en/latest/
+
+Another step will be to update the default theme to be more modern, responsive and mobile-friendly. 
+One project we may look at is [Sphinx-Bootstrap](http://ryan-roemer.github.io/sphinx-bootstrap-theme/README.html) which brings some 
+of these features to the Sphinx platform.
