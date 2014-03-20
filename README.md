@@ -1,4 +1,4 @@
-## wisdom
+## GDG Wisdom Sandbox
 This is an experimental 'sandbox' repo for trying out different ways to present GDG-Wisdom Content.
 
 
