@@ -33,5 +33,5 @@ by numerous open-source projects to create searchable and well-organized docs fo
 For an example of how to structure the content and create new themes/features, look at the 
 following sites (related to the setup link referenced above)
 
-    1. (LA Times DocumentCloud GitHub repo) [https://github.com/datadesk/python-documentcloud/blob/master/docs/index.rst]
+    1. https://github.com/datadesk/python-documentcloud/blob/master/docs/index.rst (Repo)
     2. [LA Times DocumentCloud Website] (http://python-documentcloud.readthedocs.org/en/latest/)
