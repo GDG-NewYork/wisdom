@@ -6,7 +6,8 @@
 Welcome to GDG Wisdom's documentation!
 ======================================
 
-Contents:
+Contents: 
+This is a placeholder for the GDG-Wisdom content
 
 .. toctree::
    :maxdepth: 2
