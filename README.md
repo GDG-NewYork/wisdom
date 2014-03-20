@@ -1,11 +1,8 @@
 ## wisdom
-======
-
 This is an experimental 'sandbox' repo for trying out different ways to present GDG-Wisdom Content.
 
 
 ## Current Version
-===============
 This first version will use the Sphinx Document Generator to create a themed, searchable, indexed and 
 born-printable version of the wisdom content current residing at:
 https://sites.google.com/site/gdgwisdom
