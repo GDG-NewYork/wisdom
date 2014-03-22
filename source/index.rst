@@ -7,8 +7,7 @@ Welcome to GDG Wisdom
 ======================
 
 This site is currently an experimental sandbox for hosting GDG Wisdom content on GitHub and
-delivering it as a static website using gh-pages. Because these files are in 'rst' format (a
-format similar to markdown) they can be edited directly on GitHub. 
+delivering it as a static website using gh-pages. 
 
 .. toctree::
    :maxdepth: 2
