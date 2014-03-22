@@ -1,4 +1,4 @@
 
 =======================
-**Chapters:** Management
+**Chapters:** Promotion
 =======================
