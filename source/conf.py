@@ -185,7 +185,7 @@ html_theme_options = {
     # * united
     # * yeti (v3 only)
     #
-    'bootswatch_theme': "slate",
+    'bootswatch_theme': "cerulean",
 
     # Choose Bootstrap version.
     # Values: "3" (default) or "2" (in quotes)
