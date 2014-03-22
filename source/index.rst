@@ -3,11 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to GDG Wisdom's documentation!
-======================================
+Welcome to GDG Wisdom
+======================
 
-Contents: 
-This is a placeholder for the GDG-Wisdom content
+This site is currently an experimental sandbox for hosting GDG Wisdom content on GitHub and
+delivering it as a static website using gh-pages.
 
 .. toctree::
    :maxdepth: 2
