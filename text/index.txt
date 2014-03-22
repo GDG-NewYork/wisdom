@@ -1,0 +1,17 @@
+
+Welcome to GDG Wisdom
+*********************
+
+This site is currently an experimental sandbox for hosting GDG Wisdom
+content on GitHub and delivering it as a static website using gh-
+pages.
+
+
+Indices and tables
+******************
+
+* *Index*
+
+* *Module Index*
+
+* *Search Page*

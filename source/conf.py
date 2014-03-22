@@ -185,7 +185,7 @@ html_theme_options = {
     # * united
     # * yeti (v3 only)
     #
-    'bootswatch_theme': "flatly",
+    'bootswatch_theme': "slate",
 
     # Choose Bootstrap version.
     # Values: "3" (default) or "2" (in quotes)
